@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/nnet3-xvector-compute.dir/nnet3-xvector-compute.cc.o"
+  "CMakeFiles/nnet3-xvector-compute.dir/nnet3-xvector-compute.cc.o.d"
+  "nnet3-xvector-compute"
+  "nnet3-xvector-compute.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/nnet3-xvector-compute.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
